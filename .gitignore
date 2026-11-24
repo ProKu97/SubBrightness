@@ -1,0 +1,5 @@
+# 编译产物走 Releases，不进仓库
+*.exe
+*.pdb
+*.new.exe
+Thumbs.db
