@@ -4,8 +4,7 @@
 
 Windows 托盘小工具：给**外接 / 便携显示器**调亮度、对比度、旋转方向。热键、托盘滚轮、多屏同时管，单个 exe、无需安装。
 
-<!-- 截图：把面板截图放到 docs/panel.png 后取消下一行注释 -->
-<!-- ![面板](docs/panel.png) -->
+<img src="docs/panel.png" alt="面板 / Panel" width="420">
 
 ## 功能
 
